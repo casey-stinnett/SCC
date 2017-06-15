@@ -1,7 +1,74 @@
 # SCC
+## Week 1
 - Day 1
+  - [Welcome to Class](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-welcome-to-class/scc-welcome-to-class.md)
+  - [What to learn before you program](https://github.com/nycda-staff/nycda-curriculum/blob/8006168bdc5c97388504fbb1b8817bd2dd118940/lectures/what-to-learn-before-you-learn-to-program/what-to-learn-before-you-learn-to-program.md)
   - [Web Dev Basics](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/web-dev-basics/web-dev-basics.md)
   - [CSS Basics](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/css-basics/css-basics.md)
   - [Workshop: Extended HTML/CSS](https://github.com/nycda-staff/nycda-curriculum/blob/master/workshops/extended-basic-html-and-css/extended-basic-html-and-css.md)
 - Day 2
-  - [HTML Structure for CSS]()
+  - [HTML Structure for CSS](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/scc-html-structure-for-css/scc-html-structure-for-css.md)
+  - [CSS Layout](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/css-layout/css-layout.md)
+  - [HTML5 Tags](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/html5-tags/html5-tags.md)
+  - [Project: Portfolio Website](https://github.com/nycda-staff/nycda-curriculum/blob/master/projects/scc-portfolio-website/scc-html-css-portfolio.md)
+- Day 3
+  - [Project: Portfolio Website](https://github.com/nycda-staff/nycda-curriculum/blob/master/projects/scc-portfolio-website/scc-html-css-portfolio.md)
+- Day 4
+  - [Project: Portfolio Website](https://github.com/nycda-staff/nycda-curriculum/blob/master/projects/scc-portfolio-website/scc-html-css-portfolio.md)
+- Day 5
+  - [Intro to Programming](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-programming-basics/wdi-programming-basics.md)
+  - [Javascript Basics](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-basics/wdi-javascript-basics.md)
+  - [Javascript: Logic + Loops](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-logic-loops/wdi-javascript-logic-loops.md)
+  - [JavaScript: Solving Programming Problems](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-problem-solving/wdi-javascript-problem-solving.md)
+  - [Javascript Basics Mini Challenges](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/homework/wdi-programming-js-basics-mini-challenges/wdi-programming-js-basics-mini-challenges.md)
+---
+## Week 2
+  - Day 1
+    - [Javascript: Variable Scope](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-variable-scope/wdi-javascript-variable-scope.md)
+    - [Javascript: DOM Manipulation](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-dom-manipulation/wdi-javascript-dom-manipulation.md)
+    - [Javascript: Event Handling](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-javascript-event-handling/wdi-javascript-event-handling.md)
+    - [Javascript Workshop/Homework: Scope/DOM/Event Mini Challenges](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/homework/wdi-scope-dom-event-mini-challenges/wdi-scope-dom-event-mini-challenges.md)
+  - Day 2
+    - [Javascript Workshop/Homework: Scope/DOM/Event Mini Challenges](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/homework/wdi-scope-dom-event-mini-challenges/wdi-scope-dom-event-mini-challenges.md)
+    - [jQuery Basics](https://github.com/orlandocaraballo/nycda-curriculum/blob/master/lectures/wdi-jquery-basics/wdi-jquery-basics.md)
+    - [Homework: Convert last homework into jQuery](https://github.com/nycda-staff/nycda-curriculum/tree/master/homework/scc-convert-homework-to-jquery/scc-convert-homework-to-jquery.md)
+  - Day 3
+    - [jQuery: Manipulating the DOM (Basics Extended)](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-jquery-manipulate-dom/scc-jquery-manipulate-dom.md)
+    - [Workshop: Crazy Page](https://github.com/nycda-staff/nycda-curriculum/tree/master/workshops/scc-jquery-crazy-page/scc-jquery-crazy-page.md)
+  - Day 4
+    - [Project: Budgetr](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr/scc-budgetr.md)
+  - Day 5
+    - [Project: Budgetr](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr/scc-budgetr.md)
+---
+## Week 3
+
+  - Day 1
+    - [Bootstrap](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-bootstrap/scc-bootstrap.md)
+    - [Bootstrap: Grid](https://github.com/nycda-staff/nycda-curriculum/blob/master/lectures/scc-bootstrap-grid/scc-bootstrap-grid.md)
+    - [Workshop: Bootstrap Image Gallery](https://github.com/nycda-staff/nycda-curriculum/tree/master/workshops/scc-bootstrap-image-gallery/scc-bootstrap-image-gallery.md)
+    - [Project: Remake Budgetr with Bootstrap](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr-remake-with-bootstrap/scc-budgetr-remake-with-bootstrap.md)
+  - Day 2
+    - [Project: Remake Budgetr with Bootstrap](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr-remake-with-bootstrap/scc-budgetr-remake-with-bootstrap.md)
+  - Day 3
+    - [jQuery UI](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-jquery-ui/scc-jquery-ui.md)
+    - [Workshop: Make your budget categories sortable](https://github.com/nycda-staff/nycda-curriculum/tree/master/workshops/scc-budgetr-sortable/scc-budgetr-sortable.md)
+    - [jQuery Element Creation && Removal](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-jquery-creation-removal/scc-jquery-creation-removal.md)
+  - Day 4
+    - [Budgetr: Add && Remove Categories](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr-add-remove-categories/scc-budgetr-add-remove-categories.md)
+  - Day 5
+    - [Budgetr: Add && Remove Categories](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr-add-remove-categories/scc-budgetr-add-remove-categories.md)
+## Week 4
+  - Day 1
+    - [API's](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-apis/scc-apis.md)
+    - [jQuery Modal](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-jquery-modal/scc-jquery-modal.md)
+    - [Bootstrap: Modal](https://github.com/nycda-staff/nycda-curriculum/tree/master/lectures/scc-bootstrap-modal/scc-bootstrap-modal.md)
+    - [Homework: Add Bootstrap Modal to Budgetr](https://github.com/nycda-staff/nycda-curriculum/tree/master/homework/scc-budgetr-bootstrap-modal/scc-budgetr-bootstrap-modal.md)
+  - Day 2
+    - [Workshop: Add Bootstrap Dropdown](https://github.com/nycda-staff/nycda-curriculum/tree/master/workshops/scc-bootstrap-dropdown/scc-bootstrap-dropdown.md)
+  - Day 3
+    - [Budgetr: Add 3 Bootstrap Components](https://github.com/nycda-staff/nycda-curriculum/tree/master/projects/scc-budgetr-add-3-bootstrap-components/scc-budgetr-add-3-bootstrap-components.md)
+  - Day 4
+    - [Project: Keep working on Budgetr]()
+  - Day 5
+    - [Project: Finish Budgetr && Present]()
+---
